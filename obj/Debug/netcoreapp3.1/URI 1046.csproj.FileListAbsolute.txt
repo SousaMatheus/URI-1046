@@ -2,3 +2,12 @@ C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\obj\Debug\netc
 C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.AssemblyInfoInputs.cache
 C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.AssemblyInfo.cs
 C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.csproj.CoreCompileInputs.cache
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.exe
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.deps.json
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.runtimeconfig.json
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.runtimeconfig.dev.json
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.dll
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\bin\Debug\netcoreapp3.1\URI 1046.pdb
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.dll
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.pdb
+C:\Users\pichau\meus documentos\Lógica de programação\URI 1046\obj\Debug\netcoreapp3.1\URI 1046.genruntimeconfig.cache

@@ -7,17 +7,17 @@ namespace URI_1046
         static void Main(string[] args)
         {
             int horaInicial, horaFinal, duracaoJogo ;
-            string [] var = Console.ReadLine().Split(' ');
-            horaInicial = int.Parse[0];
-            horaFinal = int.Parse[0];
+            string [] array = Console.ReadLine().Split(' ');
+            horaInicial = int.Parse(array[0]);
+            horaFinal = int.Parse(array[1]);
 
             if ( horaInicial < horaFinal){
                 duracaoJogo = horaFinal - horaInicial;
-                    Console.Log($"O JOGO DUROU {duracaoJogo} HORA(S)");
+                    Console.WriteLine($"O JOGO DUROU {duracaoJogo} HORA(S)");
             } 
             else {
                 duracaoJogo = 24 - horaInicial + horaFinal;
-                    Console.Log($"O JOGO DUROU {duracaoJogo} HORA(S)");
+                    Console.WriteLine($"O JOGO DUROU {duracaoJogo} HORA(S)");
             }
         }
     }
